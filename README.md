@@ -28,7 +28,7 @@ This Arduino project controls a biomimetic anthropomorphic robotic hand with 5 s
 
 ## Installation
 
-1. Connect the hardware components as described in your project documentation.
+1. Connect the hardware components.
 2. Open the Arduino IDE.
 3. Upload the provided Arduino sketch (`RoboticHandControl.ino`) to your Arduino board.
 
